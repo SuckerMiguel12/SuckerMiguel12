@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Hi there! I'm Miguel, a 20-year-old Software Engineering student from Palmares Paulista, based in Catanduva. I'm currently exploring backend development and I'm passionate about Java and TypeScript.</p>
+<h3 align="left">Hi there! I'm Miguel, a 20-year-old Software Engineering student from Palmares Paulista, based in Catanduva. I'm currently exploring backend development and I'm passionate about Java and TypeScript.</h3>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
 
@@ -20,17 +26,7 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-
-###
-
 <h3 align="left">Social Media</h3>
-
-###
-
-<img align="right" height="150" src="https://usagif.com/wp-content/uploads/gifs/black-cat-104.gif"  />
 
 ###
 
@@ -42,5 +38,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://usagif.com/wp-content/uploads/gifs/black-cat-104.gif"  />
 
 ###
